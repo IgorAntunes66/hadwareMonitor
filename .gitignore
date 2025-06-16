@@ -1,0 +1,16 @@
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Pasta de dependências do Go Modules
+/vendor/
+
+# Arquivos de teste
+*.test
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
